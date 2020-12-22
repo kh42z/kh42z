@@ -22,9 +22,9 @@
 			<td>
 				<h4>Database</h4>
 				<p>
-        	<img alt="Redis" src="https://img.shields.io/badge/-redis-50532?style=flat-square&logo=redis&logoColor=white" />
-          <img alt="Elasticsearch" src="https://img.shields.io/badge/-elasticsearch-50532?style=flat-square&logo=elasticsearch&logoColor=white" />
-          <img alt="Mariadb" src="https://img.shields.io/badge/-mariadb-50532?style=flat-square&logo=mariadb&logoColor=white" />
+        	<img alt="Redis" src="https://img.shields.io/badge/-redis-AF0016?style=flat-square&logo=redis&logoColor=white" />
+          <img alt="Elasticsearch" src="https://img.shields.io/badge/-elasticsearch-AF0016?style=flat-square&logo=elasticsearch&logoColor=white" />
+          <img alt="Mariadb" src="https://img.shields.io/badge/-mariadb-AF0016?style=flat-square&logo=mariadb&logoColor=white" />
 				</p>
 			</td>
 			<td>
