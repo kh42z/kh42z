@@ -8,7 +8,7 @@
 				<p>
         	<img alt="Golang" src="https://img.shields.io/badge/-go-00599C?style=flat-square&logo=go&logoColor=white" />
 					<img alt="C" src="https://img.shields.io/badge/-c-00599C?style=flat-square&logo=c&logoColor=white" />
-          <img alt="C++" src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c++&logoColor=white" />				
+          <img alt="C++" src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />				
 				</p>
 			</td>
 			<td>
@@ -30,9 +30,9 @@
 			<td>
 				<h4>Tools</h4>
 				<p>
-          <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-BBBBBB?style=flat-square&logo=jenkins&logoColor=white" />
-					<img alt="Git" src="https://img.shields.io/badge/-git-BBBBBB?style=flat-square&logo=git&logoColor=white" />
-					<img alt="Docker" src="https://img.shields.io/badge/-docker-BBBBBB?style=flat-square&logo=docker&logoColor=white" />
+          <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-007ACC?style=flat-square&logo=jenkins&logoColor=white" />
+					<img alt="Git" src="https://img.shields.io/badge/-git-007ACC?style=flat-square&logo=git&logoColor=white" />
+					<img alt="Docker" src="https://img.shields.io/badge/-docker-007ACC?style=flat-square&logo=docker&logoColor=white" />
 				</p>
 			</td>
 		</tr>
