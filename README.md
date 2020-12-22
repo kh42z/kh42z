@@ -29,7 +29,7 @@
 				</p>
 			</td>
 			<td>
-				<h4>Tools</h4>
+				<h4>CI</h4>
 				<p>
           <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-3F3F3F?style=flat-square&logo=jenkins&logoColor=black" />
 					<img alt="Git" src="https://img.shields.io/badge/-git-3F3F3F?style=flat-square&logo=git&logoColor=black" />
