@@ -1,3 +1,6 @@
+
+[<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
+
 ## Stack
 
 <table>
@@ -29,7 +32,7 @@
 				</p>
 			</td>
 			<td>
-				<h4>Continous Integration</h4>
+				<h4>Build</h4>
 				<p>
           <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-3F3F3F?style=flat-square&logo=jenkins&logoColor=black" />
 					<img alt="Git" src="https://img.shields.io/badge/-git-3F3F3F?style=flat-square&logo=git&logoColor=black" />
@@ -39,3 +42,5 @@
 		</tr>
 	</tbody>
 </table>
+
+[codingame]: https://www.codingame.com/profile/48e6dc9e6e442983d59bbe9982cf12a35314411
