@@ -30,9 +30,9 @@
 			<td>
 				<h4>Tools</h4>
 				<p>
-          <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-FF9A00?style=flat-square&logo=jenkins&logoColor=white" />
-					<img alt="Git" src="https://img.shields.io/badge/-git-FF9A00?style=flat-square&logo=git&logoColor=white" />
-					<img alt="Docker" src="https://img.shields.io/badge/-docker-FF9A00?style=flat-square&logo=docker&logoColor=white" />
+          <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-BBBBBB?style=flat-square&logo=jenkins&logoColor=white" />
+					<img alt="Git" src="https://img.shields.io/badge/-git-BBBBBB?style=flat-square&logo=git&logoColor=white" />
+					<img alt="Docker" src="https://img.shields.io/badge/-docker-BBBBBB?style=flat-square&logo=docker&logoColor=white" />
 				</p>
 			</td>
 		</tr>
