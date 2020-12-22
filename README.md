@@ -14,7 +14,7 @@
 			<td>
 				<h4>Ops</h4>
 				<p>
-        <img alt="EC2" src="https://img.shields.io/badge/-ec2-000000?style=flat-square&logo=ec2&logoColor=white" />
+        <img alt="EC2" src="https://img.shields.io/badge/-ec2-000000?style=flat-square&logo=aws&logoColor=white" />
         <img alt="Saltstack" src="https://img.shields.io/badge/-saltstack-000000?style=flat-square&logo=Saltstack&logoColor=white" />
         <img alt="Nginx" src="https://img.shields.io/badge/-nginx-000000?style=flat-square&logo=nginx&logoColor=white" />      
 				</p>
@@ -30,9 +30,9 @@
 			<td>
 				<h4>Tools</h4>
 				<p>
-          <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-50532?style=flat-square&logo=jenkins&logoColor=white" />
-					<img alt="Git" src="https://img.shields.io/badge/-git-50532?style=flat-square&logo=git&logoColor=white" />
-					<img alt="Docker" src="https://img.shields.io/badge/-docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
+          <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-FF9A00?style=flat-square&logo=jenkins&logoColor=white" />
+					<img alt="Git" src="https://img.shields.io/badge/-git-FF9A00?style=flat-square&logo=git&logoColor=white" />
+					<img alt="Docker" src="https://img.shields.io/badge/-docker-FF9A00?style=flat-square&logo=docker&logoColor=white" />
 				</p>
 			</td>
 		</tr>
