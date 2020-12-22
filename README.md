@@ -6,7 +6,7 @@
 			<td>
 				<h4>Languages</h4>
 				<p>
-        	<img alt="Golang" src="https://img.shields.io/badge/-go-000000?style=flat-square&logo=go&logoColor=white" />
+        	<img alt="Golang" src="https://img.shields.io/badge/-go-00599C?style=flat-square&logo=go&logoColor=white" />
 					<img alt="C" src="https://img.shields.io/badge/-c-00599C?style=flat-square&logo=c&logoColor=white" />
           <img alt="C++" src="https://img.shields.io/badge/-c++-00599C?style=flat-square&logo=c++&logoColor=white" />				
 				</p>
@@ -14,9 +14,9 @@
 			<td>
 				<h4>Ops</h4>
 				<p>
-        <img alt="EC2" src="https://img.shields.io/badge/-ec2-50532?style=flat-square&logo=ec2&logoColor=white" />
-        <img alt="Saltstack" src="https://img.shields.io/badge/-saltstack-50532?style=flat-square&logo=Saltstack&logoColor=white" />
-        <img alt="Nginx" src="https://img.shields.io/badge/-nginx-50532?style=flat-square&logo=nginx&logoColor=white" />      
+        <img alt="EC2" src="https://img.shields.io/badge/-ec2-000000?style=flat-square&logo=ec2&logoColor=white" />
+        <img alt="Saltstack" src="https://img.shields.io/badge/-saltstack-000000?style=flat-square&logo=Saltstack&logoColor=white" />
+        <img alt="Nginx" src="https://img.shields.io/badge/-nginx-000000?style=flat-square&logo=nginx&logoColor=white" />      
 				</p>
 			</td>
 			<td>
