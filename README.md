@@ -17,7 +17,7 @@
 			<td>
 				<h4>Ops</h4>
 				<p>
-        <img alt="EC2" src="https://img.shields.io/badge/-EC2-000000?style=flat-square&logo=EC2&logoColor=white" />
+        <img alt="EC2" src="https://img.shields.io/badge/-EC2-000000?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
         <img alt="Saltstack" src="https://img.shields.io/badge/-saltstack-000000?style=flat-square&logo=Saltstack&logoColor=white" />
         <img alt="Nginx" src="https://img.shields.io/badge/-nginx-000000?style=flat-square&logo=nginx&logoColor=white" />
 				<img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" />
