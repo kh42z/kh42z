@@ -24,7 +24,7 @@
 				</p>
 			</td>
 			<td>
-				<h4>Database</h4>
+				<h4>Databases</h4>
 				<p>
         	<img alt="Redis" src="https://img.shields.io/badge/-redis-AF0016?style=flat-square&logo=redis&logoColor=white" />
           <img alt="Elasticsearch" src="https://img.shields.io/badge/-elasticsearch-AF0016?style=flat-square&logo=elasticsearch&logoColor=white" />
