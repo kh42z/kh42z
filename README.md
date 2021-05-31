@@ -1,6 +1,3 @@
-## Competitive programming
-[<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
-
 ## Stack
 
 <table>
@@ -48,3 +45,6 @@
 
 - [Restful API (Rails)](https://github.com/kh42z/p42ng)
 - [Alfred (Go)](https://github.com/kh42z/alfred)
+
+## Competitive programming
+[<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
