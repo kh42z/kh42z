@@ -1,4 +1,4 @@
-
+## Competitive programming
 [<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
 
 ## Stack
