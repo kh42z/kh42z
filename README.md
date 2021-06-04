@@ -1,5 +1,4 @@
-## Competitive programming
-- [<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
+
 
 ## Stack
 
@@ -18,6 +17,7 @@
 				<h4>Ops</h4>
 				<p>
         <img alt="EC2" src="https://img.shields.io/badge/-EC2-000000?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
+	<img alt="Terraform" src="https://img.shields.io/badge/-terraform-000000?style=flat-square&logo=Terraform&logoColor=white" />
         <img alt="Saltstack" src="https://img.shields.io/badge/-saltstack-000000?style=flat-square&logo=Saltstack&logoColor=white" />
         <img alt="Nginx" src="https://img.shields.io/badge/-nginx-000000?style=flat-square&logo=nginx&logoColor=white" />
 				<img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -42,9 +42,13 @@
 	</tbody>
 </table>
 
-[codingame]: https://www.codingame.com/profile/48e6dc9e6e442983d59bbe9982cf12a35314411
+## Competitive programming
+- [<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
 
 ## Recent projects
 
 - [Restful API (Rails)](https://github.com/kh42z/p42ng)
 - [Alfred (Go)](https://github.com/kh42z/alfred)
+
+
+[codingame]: https://www.codingame.com/profile/48e6dc9e6e442983d59bbe9982cf12a35314411
