@@ -6,7 +6,7 @@
 	<tbody>
 		<tr>
 			<td>
-				<h4>Languages</h4>
+				<h4>Dev</h4>
 				<p>
         	<img alt="Golang" src="https://img.shields.io/badge/-Golang-00599C?style=flat-square&logo=go&logoColor=white" />
 					<img alt="C" src="https://img.shields.io/badge/-c-00599C?style=flat-square&logo=c&logoColor=white" />
