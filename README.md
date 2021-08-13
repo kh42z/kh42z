@@ -45,10 +45,4 @@
 ## Competitive programming
 - [<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
 
-## Recent projects
-
-- [Restful API (Rails)](https://github.com/kh42z/p42ng)
-- [Alfred (Go)](https://github.com/kh42z/alfred)
-
-
 [codingame]: https://www.codingame.com/profile/48e6dc9e6e442983d59bbe9982cf12a35314411
