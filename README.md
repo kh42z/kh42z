@@ -16,23 +16,23 @@
 			<td>
 				<h4>Ops</h4>
 				<p>
-        <img alt="EC2" src="https://img.shields.io/badge/-EC2-000000?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
+        <img alt="ECS" src="https://img.shields.io/badge/-ECS-000000?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
 	<img alt="Terraform" src="https://img.shields.io/badge/-terraform-000000?style=flat-square&logo=Terraform&logoColor=white" />
-        <img alt="Saltstack" src="https://img.shields.io/badge/-saltstack-000000?style=flat-square&logo=Saltstack&logoColor=white" />
-        <img alt="Nginx" src="https://img.shields.io/badge/-nginx-000000?style=flat-square&logo=nginx&logoColor=white" />
-				<img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" />
+	<img alt="Kubernetes" src="https://img.shields.io/badge/-kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white" />
 				</p>
 			</td>
 			<td>
 				<h4>Databases</h4>
 				<p>
+		<img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-AF0016?style=flat-square&logo=postgresql&logoColor=white" />
         	<img alt="Redis" src="https://img.shields.io/badge/-redis-AF0016?style=flat-square&logo=redis&logoColor=white" />
-          	<img alt="Mariadb" src="https://img.shields.io/badge/-mariadb-AF0016?style=flat-square&logo=mariadb&logoColor=white" />
+          	<img alt="Dynamodb" src="https://img.shields.io/badge/-dynamodb-AF0016?style=flat-square&logo=amazondynamodb&logoColor=white" />
 				</p>
 			</td>
 			<td>
 				<h4>Build</h4>
 				<p>
+					<img alt="githubactions" src="https://img.shields.io/badge/-githubactions-3F3F3F?style=flat-square&logo=githubactions&logoColor=black" />
           <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-3F3F3F?style=flat-square&logo=jenkins&logoColor=black" />
 					<img alt="Git" src="https://img.shields.io/badge/-git-3F3F3F?style=flat-square&logo=git&logoColor=black" />
 					<img alt="Docker" src="https://img.shields.io/badge/-docker-3F3F3F?style=flat-square&logo=docker&logoColor=black" />
