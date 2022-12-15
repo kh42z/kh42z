@@ -34,7 +34,6 @@
 				<p>
 					<img alt="githubactions" src="https://img.shields.io/badge/-githubactions-3F3F3F?style=flat-square&logo=githubactions&logoColor=black" />
           <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-3F3F3F?style=flat-square&logo=jenkins&logoColor=black" />
-					<img alt="Git" src="https://img.shields.io/badge/-git-3F3F3F?style=flat-square&logo=git&logoColor=black" />
 					<img alt="Docker" src="https://img.shields.io/badge/-docker-3F3F3F?style=flat-square&logo=docker&logoColor=black" />
 				</p>
 			</td>
