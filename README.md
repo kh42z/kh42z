@@ -40,6 +40,6 @@
 </table>
 
 ## Competitive programming
-- [<img align="left" alt="codingame" height="22px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" />][codingame]<br/>
-
-[codingame]: https://www.codingame.com/profile/48e6dc9e6e442983d59bbe9982cf12a35314411
+<a href="https://www.codingame.com/profile/48e6dc9e6e442983d59bbe9982cf12a35314411">
+  <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="CodinGame" width="22" style="max-width: 22px; height: auto;" />
+</a>
